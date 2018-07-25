@@ -13,9 +13,6 @@ export default class SearchBar extends Component {
   } */
 
   render () {
-    {
-      console.log('render SearchBar')
-    }
     return (
       <div>
         <FormGroup>
